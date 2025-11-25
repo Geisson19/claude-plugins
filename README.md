@@ -5,7 +5,7 @@ Personal plugins for Claude Code.
 ## Installation
 
 ```bash
-/plugin marketplace add YOUR_GITHUB_USERNAME/claude-plugins
+/plugin marketplace add Geisson19/claude-plugins
 ```
 
 Then install individual plugins:
